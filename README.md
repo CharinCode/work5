@@ -1,6 +1,8 @@
 # apiapp
-
-A new Flutter project.
+Package ที่ใช้
+  http: ^1.2.0
+  introduction_screen: ^3.1.12
+  get: ^4.6.6
 
 ## Getting Started
 
